@@ -1,4 +1,81 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Smile.sticker"
+    },
+    {
+      "filename" : "Sad 1.sticker"
+    },
+    {
+      "filename" : "Laugh.sticker"
+    },
+    {
+      "filename" : "kiss.sticker"
+    },
+    {
+      "filename" : "wink.sticker"
+    },
+    {
+      "filename" : "cool.sticker"
+    },
+    {
+      "filename" : "thumbs-up.sticker"
+    },
+    {
+      "filename" : "thumbs-down.sticker"
+    },
+    {
+      "filename" : "angry.sticker"
+    },
+    {
+      "filename" : "love.sticker"
+    },
+    {
+      "filename" : "Surprised 1.sticker"
+    },
+    {
+      "filename" : "shoked.sticker"
+    },
+    {
+      "filename" : "roll-eyes.sticker"
+    },
+    {
+      "filename" : "cry 2.sticker"
+    },
+    {
+      "filename" : "geek-1.sticker"
+    },
+    {
+      "filename" : "laugh-n-cry.sticker"
+    },
+    {
+      "filename" : "think.sticker"
+    },
+    {
+      "filename" : "flag-no-star.sticker"
+    },
+    {
+      "filename" : "thumbs-up-face.sticker"
+    },
+    {
+      "filename" : "thumbs-down-face.sticker"
+    },
+    {
+      "filename" : "tongue-out.sticker"
+    },
+    {
+      "filename" : "flag-moha.sticker"
+    },
+    {
+      "filename" : "flag-star.sticker"
+    },
+    {
+      "filename" : "tired.sticker"
+    },
+    {
+      "filename" : "sad 3.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
